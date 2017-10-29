@@ -1,0 +1,33 @@
+body {
+	background-color:#708090;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.container {
+	width: 40%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	border: 1px solid black;
+	border-radius: 3px;
+	background-color: white;
+}
+
+.form-signin {
+	margin: 5px 5px 15px 5px;
+	font-size: 14px;
+	color: #2F4F4F;
+}
+
+.form_signin-heading {
+	font-size: 26px;
+	text-align: center;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+
+.btn {
+	background-color: #2F4F4F;
+	width: 60%;
+	text-align: center;
+	margin: auto;
+}
